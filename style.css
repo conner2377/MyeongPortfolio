@@ -448,7 +448,7 @@
 
 .btn-filled {
   background-color: #000;
-  color: #fff;
+  color: #ffffff;
 }
 
 .portfolio-title {
@@ -456,3 +456,45 @@
   justify-content: center;
   text-align: center;
 }
+
+/* POBU Section */
+#POBU {
+  background-image: url('https://cdn.discordapp.com/attachments/824961170107662356/1107636244621566073/2023-05-15_8-36-570.png');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 80px 0;
+  color: #ffffff;
+  text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -3px 20px rgba(0, 0, 0, 0.4);
+}
+
+.section-Pobu {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  color: #ffffff;
+  
+}
+
+.section-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.section-content p {
+  font-size: 25px;
+  line-height: 1.6;
+  color: #fff;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.8);
+}
+
+.section-content p:first-child {
+  margin-bottom: 20px;
+}
+.section-content p a{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+

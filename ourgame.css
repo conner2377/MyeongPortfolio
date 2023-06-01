@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: 'TheJamsil5Bold';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2') format('woff2');
-    font-weight: 700;
+    font-family: 'SUITE-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/SUITE-Regular.woff2') format('woff2');
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -67,7 +67,7 @@ li{
 }
 
 pre{
-    font-family: 'TheJamsil5Bold';
+    'SUITE-Regular';
     margin-top: 30px;
     text-align: left;
     font-size: 20px;

@@ -168,7 +168,7 @@
     background-size: cover;
     display: flex;
     justify-content: center;
-    background-image: url(/이클\ 원본0.png);
+    background-image: url(./이클\ 원본0.png);
 
     text-align: center;
     color: #fff;
@@ -384,12 +384,16 @@
   flex-wrap: wrap;
 }
 
+.about h3{
+  font-size: 45px;
+}
+
 .about p {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 

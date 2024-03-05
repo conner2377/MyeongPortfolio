@@ -40,7 +40,7 @@ li{
 .modal-inner{
     
     width: 1400px;
-    height: 800px;
+    height: 1100px;
     background-color: rgb(255, 255, 255);
     color: black;
     text-align: center;
@@ -54,6 +54,7 @@ li{
     top:0;
     left: 0;
     transform: translate(-50%, -50%);
+    margin-top: 80px;
 }
 
 .modal-inner ul{

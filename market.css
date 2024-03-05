@@ -40,11 +40,10 @@ li{
 .modal-inner{
     
     width: 1400px;
-    height: 800px;
+    height: 1100px;
     background-color: rgb(255, 255, 255);
     color: black;
     text-align: center;
-    
 
     border-radius: 10px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
@@ -55,8 +54,8 @@ li{
     top:0;
     left: 0;
     transform: translate(-50%, -50%);
+    margin-top: 80px;
 }
-
 .modal-inner ul{
 
     margin-top: 50px;
